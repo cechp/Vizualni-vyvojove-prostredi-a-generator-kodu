@@ -1,0 +1,1 @@
+# Vizualni-vyvojove-prostredi-a-generator-kodu
